@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   width: 100vm;
-  height: 1410px;
+  height: auto;
 `;
 
 export const Wrapper = styled.div`
@@ -446,14 +446,107 @@ detail-agosto{
 `;
 
 export const Terminos = styled.div`
-.contenedor-terminos{
-witdth: 1358px;
-height: 482px;
-display: flex;
-flex-direction: column;
-border: 1px solid red;
-}
-.contenido-terminos{
-  
-}
-`
+  .contenedor-terminos {
+    witdth: 1358px;
+    height: 482px;
+    display: flex;
+    margin-top: 24px;
+    margin-left: -25px;
+  }
+  .contenido-terminos {
+    width: 1018px;
+    heigth: 482px;
+    display: block;
+  }
+  .title-terminos {
+    display: flex;
+    width: 970px;
+    height: 56px;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 48px;
+    align-items: center;
+    a {
+      color: #1a75cf;
+      font-size: 16px;
+      font-family: BogleWeb, Montserrat, sans-serif;
+      line-height: 18.4px;
+      font-weight: 700;
+    }
+  }
+  .preguntas {
+    width: 970px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+  }
+  span {
+    display: flex;
+    width: 100%;
+    color: #525252;
+    font-weight: 600;
+  }
+  .varias-preguntas {
+    width: 970px;
+    height: 290px;
+    margin: auto;
+  }
+  .one-faq {
+    width: 970px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .necesito {
+    width: 952px;
+    height: 32px;
+    color: #525252;
+    line-height: 1.5;
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir,
+      helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial,
+      sans-serif;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #dedede;
+    cursor: pointer;
+    overflow: visible;
+    outline: none;
+  }
+  .p {
+    font-family: BogleWeb, Montserrat, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+    color: red;
+  }
+  .two-faq {
+    width: 970px;
+    height: 50px;
+    display: flex;
+    margin-top: 8px;
+    align-items: center;
+    justify-content: center;
+  }
+  .veces {
+    width: 952px;
+    height: 32px;
+    color: #525252;
+    line-height: 1.5;
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir,
+      helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial,
+      sans-serif;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #dedede;
+    cursor: pointer;
+    overflow: visible;
+    outline: none;
+  }
+`;
+
+

@@ -1,11 +1,11 @@
 import React from "react";
-import { 
+import {
   Container,
   Wrapper,
   SectionL,
   SectionR,
   Contenido,
-  Terminos,
+  Terminos,  
 } from "./styles";
 
 const ListerWalmart = () => {
@@ -66,6 +66,86 @@ const ListerWalmart = () => {
                   />
                 </div>
               </div>
+              <Terminos>
+                <div className="contenedor-terminos">
+                  <div className="contenido-terminos">
+                    <div className="title-terminos">
+                      <a href="walmart.com">
+                        Términos y condiciones Walmart te escucha
+                      </a>
+                    </div>
+                    <div className="preguntas">
+                      <span>Preguntas frecuentes</span>
+                    </div>
+                    <div className="varias-preguntas">
+                      <div className="one-faq">
+                        <select className="necesito">
+                          <option value="value1">
+                            ¿Qué necesito para participar?
+                          </option>
+                          <option value="value2">
+                            <p>
+                              Necesitás guardar tu factura para poder ingresar
+                              al sorteo. Debajo de tu ticket encontrarás un
+                              código único que necesitarás para participar en el
+                              sorteo.
+                            </p>
+                          </option>
+                        </select>
+                      </div>
+                      <div className="two-faq">
+                        <select className="veces">
+                          <option value="value1">
+                            ¿Cuántas veces puedo participar?
+                          </option>
+                          <option value="value2">
+                            <p>
+                              Tu ticket de compra es válido para participar sólo
+                              una vez.
+                            </p>
+                          </option>
+                        </select>
+                      </div>
+                      <div className="two-faq">
+                        <select className="veces">
+                          <option value="value1">
+                            ¿Con qué frecuencia se hacen los sorteos?
+                          </option>
+                          <option value="value2">
+                            <p>Los sorteos se realizan 1 vez al mes.</p>
+                          </option>
+                        </select>
+                      </div>
+                      <div className="two-faq">
+                        <select className="veces">
+                          <option value="value1">
+                            ¿Cuánto tiempo vale mi ticket para participar?
+                          </option>
+                          <option value="value2">
+                            <p>
+                              Tu ticket es válido por 7 días para poder ingresar
+                              al sorteo.
+                            </p>
+                          </option>
+                        </select>
+                      </div>
+                      <div className="two-faq">
+                        <select className="veces">
+                          <option value="value1">
+                            ¿En dónde puedo ver a los ganadores?
+                          </option>
+                          <option value="value2">
+                            <p>
+                              Puedes ver a los ganadores del mes
+                              ganadores.33mkt.com
+                            </p>
+                          </option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </Terminos>
             </div>
           </SectionL>
           <SectionR>
@@ -257,13 +337,6 @@ const ListerWalmart = () => {
               </div>
             </div>
           </SectionR>
-          <Terminos>
-            <div className="contenedor-terminos">
-              <div className="contenido-terminos">
-                
-              </div>
-            </div>
-          </Terminos>
         </Contenido>
         
       </Wrapper>
