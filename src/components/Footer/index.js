@@ -25,9 +25,7 @@ export const Footer = () => {
               <div className="descripcion-center">
                 <p>¿Cómo comprar en walmart.com.gt?</p>
                 <p>Preguntas frecuentes</p>
-                <p>Reglamento de promociones</p>
                 <p>Llámanos 1-801-00-96-722</p>
-                
               </div>
             </div>
           </div>

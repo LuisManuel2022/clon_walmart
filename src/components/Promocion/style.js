@@ -18,6 +18,7 @@ export const Wrapper = styled.div`
     text-align: center;
     font-weight: 700;
    align-items: center;
+   
     span{
       color: white;      
     }
@@ -28,4 +29,6 @@ export const Wrapper = styled.div`
       width: 104px;
       height: 46px;
     }
+    
+
 `;

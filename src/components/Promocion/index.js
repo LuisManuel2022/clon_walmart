@@ -4,7 +4,7 @@ import { Container, Wrapper } from "./style";
 export const Promocion = () => {
   return (
     <Container>
-      <Wrapper>
+      <Wrapper>        
       <div className="content">
         <span>¡Recibe </span>
         <span className="orange">5% de descuento</span>

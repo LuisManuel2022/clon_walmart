@@ -2,8 +2,9 @@ import styled from "styled-components";
 
 export const Container = styled.div`
 width: 1583px;
-height: 77px;
+height: 97px;
 background-color: #f4f4f4;
+padding-top: 20px;
 `
 
 export const Wrapper = styled.div`
@@ -11,10 +12,13 @@ width: 1150px;
 height: 77px;
 display: flex;
 margin: auto;
-margin-top: 16px;
+
+
+
 .ofertas{
     width: 456px;
     height: 77px;
+    margin-left: 4px;
 }
 .contenido-ofertas{
     width: 405px;

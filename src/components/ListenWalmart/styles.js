@@ -222,6 +222,7 @@ height: 851px;
   height: 48px;
   margin: 4px 4px 0 4px;
   align-items: center;
+  border-bottom: 2px solid #1a75cf;
   p {
     font-size: 14px;
     color: #525252;    
