@@ -39,22 +39,30 @@ export const Wrapper = styled.div`
   }
   .rebajas{
     width: 104px;
-    height: 42px;
+    height: 46px;
     display: flex;
     margin-left: 687px;
   }
   button{
     width: 104px;
     height: 30px;
+    display: flex;
+    align-items: center;
     margin-top: 8px;
     background-color: #ff0008;
     border: none;
     border-radius: 5px;
     color: white;
     font-family: BogleWeb, Montserrat, sans-serif
-    font-size: 26px;
+    font-size: 16px;
     line-height: 18.4px;
-    font-weight: 600;    
+    font-weight: 600; 
+    
+    img{
+      margin-top: 3px;
+      margin-left: 1px;
+      padding-right:3px;
+    }   
   }
    .marcas{
     width:127px;

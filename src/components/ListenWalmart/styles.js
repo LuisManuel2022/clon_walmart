@@ -253,6 +253,9 @@ height: 851px;
   height: 54px;  
   margin: 0px auto;
   align-items: center;
+  .ul{
+    color: rgb(253, 187, 48);
+  }
 }
 .contenedor-actividades{  
 width: 180px;
@@ -298,9 +301,16 @@ span{
     align-items: center;
     width: 191px;
     height: 33px;
-    font-size: 15px;  
+    font-size: 14px;  
+    font-family: BogleWeb, Montserrat, sans-serif;
     color: #525252;
-    margin-left: 16px;   
+    margin-left: 16px; 
+    li{
+      color: rgb(253, 187, 48);
+    }  
+    li p {
+      color: #525252;         
+    }
   }
   .febrero{
     width: 363px;
@@ -321,7 +331,13 @@ span{
     width: 246px;
     height: 67px;
     font-size: 14px;
-    margin-left: 16px;       
+    margin-left: 16px; 
+    li{
+      color: rgb(253, 187, 48);
+    }  
+    li p {
+      color: #525252;         
+    }      
   }
    span{
       width: 230px;
@@ -351,7 +367,13 @@ span{
       width: 246px;
       height: 67px;
       font-size: 14px;
-      margin-left: 16px;       
+      margin-left: 16px; 
+      li{
+        color: rgb(253, 187, 48);
+      }  
+      li p {
+        color: #525252;         
+      }         
     }
      span{
         width: 230px;
@@ -400,7 +422,12 @@ detail-julio{
   height: 67px;
   font-size: 14px;
   margin-left: 16px; 
-  
+  li{
+    color: rgb(253, 187, 48);
+  }  
+  li p {
+    color: #525252;         
+  }
 }
 span{
   display: flex;
@@ -439,7 +466,13 @@ detail-agosto{
   width: 230px;
   height: 67px;
   font-size: 14px;
-  margin-left: 16px;     
+  margin-left: 16px;   
+  li{
+    color: rgb(253, 187, 48);
+  }  
+  li p {
+    color: #525252;         
+  }  
 }
 
 

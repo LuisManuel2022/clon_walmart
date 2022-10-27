@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Wrapper, Row } from "./styles";
-import { FaArrowDown } from "react-icons/fa";
+
 
 const SelectStore = () => {
   return (
@@ -18,14 +18,8 @@ const SelectStore = () => {
           <div className="rebajas">
             <div className="content-rebajas">
             <button>
-              <FaArrowDown
-                style={{
-                  color: "yellow",
-                  fontSize: "25px",
-                  float: "left",
-                  marginLeft: "5px",
-                }}
-              />
+            <img src="https://walmartgt.vtexassets.com/assets/vtex/assets-builder/walmartgt.store-theme/1.0.225/icon_rebajas___15bc85986c2f953bbf622bcf66b77800.svg"
+              alt="arrow"/>
               REBAJAS
             </button>
             </div>

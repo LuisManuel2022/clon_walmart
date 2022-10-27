@@ -77,6 +77,7 @@ export const Wrapper = styled.nav`
     width: 150px;
     height: 72px;
     align-items: center;
+    
   }
 
   .noteb {
@@ -93,7 +94,7 @@ export const Wrapper = styled.nav`
     color: #fff;
     font-size: 14px;
     font-weight: 600;
-    
+    border-right: 1px solid #fff;
   }
   .mi {
     display: flex;
@@ -128,6 +129,8 @@ export const Wrapper = styled.nav`
     color: #fff;
     font-size: 12px;
     font-weight: 600;
+    border-left: 1px solid #fff;
+    
     span {
       width: 79px;
       height: 20px;

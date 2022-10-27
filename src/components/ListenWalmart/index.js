@@ -174,7 +174,7 @@ const ListerWalmart = () => {
                 <div className="detail-enero">
                   <div className="contenido-enero">
                     <ul>
-                      <li>31 Cierre de sorteo Enero</li>
+                      <li><p>31 Cierre de sorteo Enero</p></li>
                     </ul>
                   </div>
                 </div>
@@ -185,9 +185,9 @@ const ListerWalmart = () => {
                   <div className="contenido-detail-febrero">
                     <div className="contenido-febrero">
                       <ul>
-                        <li>01 Sorteo Enero</li>
-                        <li>15 Se comunican ganadores del mes</li>
-                        <li>28 Cierre de sorteo Febrero</li>
+                        <li><p>01 Sorteo Enero</p></li>
+                        <li><p>15 Se comunican ganadores del mes</p></li>
+                        <li><p>28 Cierre de sorteo Febrero</p></li>
                       </ul>
                     </div>
                   </div>
@@ -199,9 +199,9 @@ const ListerWalmart = () => {
                   <div className="contenido-detail-marzo">
                     <div className="contenido-marzo">
                       <ul>
-                        <li>01 Sorteo Febrero</li>
-                        <li>15 Se comunican ganadores del mes</li>
-                        <li>31 Cierre de sorteo Marzo</li>
+                        <li><p>01 Sorteo Febrero</p></li>
+                        <li><p>15 Se comunican ganadores del mes</p></li>
+                        <li><p>31 Cierre de sorteo Marzo</p></li>
                       </ul>
                     </div>
                   </div>
@@ -213,9 +213,9 @@ const ListerWalmart = () => {
                   <div className="contenido-detail-marzo">
                     <div className="contenido-febrero">
                       <ul>
-                        <li>01 Sorteo Marzo</li>
-                        <li>15 Se comunican ganadores del mes</li>
-                        <li>30 Cierre de sorteo Abril</li>
+                        <li><p>01 Sorteo Marzo</p></li>
+                        <li><p>15 Se comunican ganadores del mes</p></li>
+                        <li><p>30 Cierre de sorteo Abril</p></li>
                       </ul>
                     </div>
                   </div>
@@ -227,9 +227,9 @@ const ListerWalmart = () => {
                   <div className="contenido-detail-marzo">
                     <div className="contenido-marzo">
                       <ul>
-                        <li>03 Sorteo Abril</li>
-                        <li>17 Se comunican ganadores del mes</li>
-                        <li>30 Cierre de sorteo Mayo</li>
+                        <li><p>03 Sorteo Abril</p></li>
+                        <li><p>17 Se comunican ganadores del mes</p></li>
+                        <li><p>30 Cierre de sorteo Mayo</p></li>
                       </ul>
                     </div>
                   </div>
@@ -241,9 +241,9 @@ const ListerWalmart = () => {
                   <div className="contenido-detail-marzo">
                     <div className="contenido-marzo">
                       <ul>
-                        <li>01 Sorteo Mayo</li>
-                        <li>15 Se comunican ganadores del mes</li>
-                        <li>30 Cierre de sorteo Junio</li>
+                        <li><p>01 Sorteo Mayo</p></li>
+                        <li><p>15 Se comunican ganadores del mes</p></li>
+                        <li><p>30 Cierre de sorteo Junio</p></li>
                       </ul>
                     </div>
                   </div>
@@ -257,9 +257,9 @@ const ListerWalmart = () => {
                   <div className="contenido-detail-julio">
                     <div className="contenido-julio">
                       <ul>
-                        <li>01 Sorteo Junio</li>
-                        <li>15 Se comunican ganadores del mes</li>
-                        <li>31 Cierre de sorteo Julio</li>
+                        <li><p>01 Sorteo Junio</p></li>
+                        <li><p>15 Se comunican ganadores del mes</p></li>
+                        <li><p>31 Cierre de sorteo Julio</p></li>
                       </ul>
                     </div>
                   </div>
@@ -271,9 +271,9 @@ const ListerWalmart = () => {
                   <div className="contenido-detail-agosto">
                     <div className="contenido-agosto">
                       <ul>
-                        <li>02 Sorteo Julio</li>
-                        <li>16 Se comunican ganadores del mes</li>
-                        <li>31 Cierre de sorteo Agosto</li>
+                        <li><p>02 Sorteo Julio</p></li>
+                        <li><p>16 Se comunican ganadores del mes</p></li>
+                        <li><p>31 Cierre de sorteo Agosto</p></li>
                       </ul>
                     </div>
                   </div>
@@ -285,9 +285,9 @@ const ListerWalmart = () => {
                   <div className="contenido-detail-agosto">
                     <div className="contenido-agosto">
                       <ul>
-                        <li>01 Sorteo Agosto</li>
-                        <li>15 Se comunican ganadores del mes</li>
-                        <li>30 Cierre de sorteo Septiembre</li>
+                        <li><p>01 Sorteo Agosto</p></li>
+                        <li><p>15 Se comunican ganadores del mes</p></li>
+                        <li><p>30 Cierre de sorteo Septiembre</p></li>
                       </ul>
                     </div>
                   </div>
@@ -299,9 +299,9 @@ const ListerWalmart = () => {
                   <div className="contenido-detail-agosto">
                     <div className="contenido-agosto">
                       <ul>
-                        <li>01 Sorteo Septiembre</li>
-                        <li>15 Se comunican ganadores del mes</li>
-                        <li>31 Cierre de sorteo Octubre</li>
+                        <li><p>01 Sorteo Septiembre</p></li>
+                        <li><p>15 Se comunican ganadores del mes</p></li>
+                        <li><p>31 Cierre de sorteo Octubre</p></li>
                       </ul>
                     </div>
                   </div>
@@ -313,9 +313,9 @@ const ListerWalmart = () => {
                   <div className="contenido-detail-agosto">
                     <div className="contenido-agosto">
                       <ul>
-                        <li>01 Sorteo Octubre</li>
-                        <li>15 Se comunican ganadores del mes</li>
-                        <li>31 Cierre de sorteo Noviembre</li>
+                        <li><p>01 Sorteo Octubre</p></li>
+                        <li><p>15 Se comunican ganadores del mes</p></li>
+                        <li><p>31 Cierre de sorteo Noviembre</p></li>
                       </ul>
                     </div>
                   </div>
@@ -327,9 +327,9 @@ const ListerWalmart = () => {
                   <div className="contenido-detail-agosto">
                     <div className="contenido-agosto">
                       <ul>
-                        <li>01 Sorteo Noviembre</li>
-                        <li>15 Se comunican ganadores del mes</li>
-                        <li>31 Cierre de sorteo Diciembre</li>
+                        <li><p>01 Sorteo Noviembre</p></li>
+                        <li><p>15 Se comunican ganadores del mes</p></li>
+                        <li><p>31 Cierre de sorteo Diciembre</p></li>
                       </ul>
                     </div>
                   </div>
